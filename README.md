@@ -1,5 +1,5 @@
-# privateCandle
+# Create disconnected spaces to enjoy sourrounding people. 
 
-# candle 
+#
 
 ## yo
