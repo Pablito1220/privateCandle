@@ -33,14 +33,14 @@ Flash *irSensor.ino* into the first esp8266 (the master).
 ###### esp8266 (Slave)
 [Download ](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
 
-    Open *deauth.ino* with Arduino IDE. 
+  Open *deauth.ino* with Arduino IDE. 
 
-    Build and flash the seconde esp (the slave)
+  Build and flash the seconde esp (the slave)
 
-    Now display the debugger and type into the serial command box. 
+  Now display the debugger and type into the serial command box. 
 
-    `write autostart.txt scan -a`
-    and then
-    `write autostart.txt attack -da`
+  `write autostart.txt scan -a`
+  and then
+  `write autostart.txt attack -da`
 
 
