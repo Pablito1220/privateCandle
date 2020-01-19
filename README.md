@@ -31,8 +31,12 @@ SCHEMA ELECTRONIC
 Flash *irSensor.ino* into the first esp8266 (the master). 
 
 #### esp8266 (Slave)
-[Download ](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
 
+  Download [here](https://github.com/spacehuhn/esp8266_deauther) the deauther from spacehuhn. 
+
+  Or
+  `git clone https://github.com/spacehuhn/esp8266_deauther.git`
+  
   Open *deauth.ino* with Arduino IDE. 
 
   Build and flash the seconde esp (the slave)
@@ -43,4 +47,7 @@ Flash *irSensor.ino* into the first esp8266 (the master).
   and then
   `write autostart.txt attack -da`
 
+## 3D Print
+
+3D print this [stl file](https://www.thingiverse.com/thing:4112161)
 
