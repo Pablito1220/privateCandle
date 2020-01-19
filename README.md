@@ -12,6 +12,8 @@ Lien vers impression: ![3D Print](https://www.thingiverse.com/)
 ###### But I am not the only one to do that and that's the real problem. Since the smartphones came in our lives, the society started to change deeply. All waiting rooms, or wainting spaces in general, are filled with people staring at their smartphones. Some new physical, mental or social symptoms appeared, like *FOMO*, *blurring* or **post-truth**. 
 
 ## How?
-###### We must reunite with our physicality and momentary stop our digital presence. 
+###### We must reunite with our physicality and momentary stop our digital presence. That is why I designed a candlestick that scrambles the network when you light the candle on. This object was made with standards electronic pieces and 3d prints which makes its construction accessible to any maker. 
 
-###### That is why I designed a candlestick that scrambles the network when you light the candle on. 
+## Instructions
+#### Electronic
+###### You will need: 2 esp8266
