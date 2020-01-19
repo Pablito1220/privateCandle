@@ -18,12 +18,12 @@
 ###### You will need: 
 a battery system
 [GitHub](http://github.com)
-a battery system
+* a battery system
 [GitHub](http://github.com)
 a battery system
 [GitHub](http://github.com)
-###### * lots of jumpers
-###### * a mosfet transistor
-###### * a switch
-###### * an ir sensor
+* lots of jumpers
+* a mosfet transistor
+* a switch
+* an ir sensor
 
