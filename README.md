@@ -1,5 +1,5 @@
 # Private Candle 
-## Create disconnected spaces to enjoy sourrounding people. 
+Create disconnected spaces to enjoy sourrounding people. 
 
 ![GitHub Logo](/img/PlancheRendu2.png)
 
