@@ -5,7 +5,6 @@
 #######METTRE PHOTO BOUGEOIR
 
 ![GitHub Logo](/img/candle.png)
-Lien vers impression: ![3D Print](https://www.thingiverse.com/)
 
 ## Why? 
 ###### I live most of my time connected. It is the first thing I do when I wake up, and the last too. Event if I am not behind a terminal, I am still available if someone wants to communicate with me. I sometimes answer professional e-mails at 1am or 2am. 
@@ -15,5 +14,17 @@ Lien vers impression: ![3D Print](https://www.thingiverse.com/)
 ###### We must reunite with our physicality and momentary stop our digital presence. That is why I designed a candlestick that scrambles the network when you light the candle on. This object was made with standards electronic pieces and 3d prints which makes its construction accessible to any maker. 
 
 ## Instructions
+
 #### Electronic
-###### You will need: 2 esp8266
+###### You will need: 
+###### * 2 esp8266
+###### * a battery systeme 
+######    * A battery systeme 
+http://github.com - automatic!
+[GitHub](http://github.com)
+######    * A battery systeme 
+###### * lots of jumpers
+###### * a mosfet transistor
+###### * a switch
+###### * an ir sensor
+
