@@ -17,13 +17,11 @@
 #### Electronic
 ###### You will need: 
 * a battery system
-    * [lipo ](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
-    * [GitHub](https://www.bastelgarage.ch/solar-lipo/sparkfun-lipo-battery-manager-battery-babysitter)
-* lots of jumpers
-    * [GitHub](https://www.bastelgarage.ch/kabel-litzen/kabel-leitungen/flachkabel-idc-fc-regenbogen-40p-28awg)
-* a mosfet transistor
-    * [GitHub](https://www.play-zone.ch/en/sparkfun-mosfet-power-control-kit.html)
-* a switch
-    * [GitHub](https://www.bastelgarage.ch/schiebeschalter-dpdt-ein-ein-6-polig?search=switch)
-* [ir flame detector](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
+    * [Battery case ](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
+    * [Li-ion akku](https://www.bastelgarage.ch/solar-lipo/14500-3-7v-li-ion-akku-750mah-icr14500)
+    * [Battery transformator](https://www.bastelgarage.ch/solar-lipo/sparkfun-lipo-battery-manager-battery-babysitter)
+* [Jumpers](https://www.bastelgarage.ch/kabel-litzen/kabel-leitungen/flachkabel-idc-fc-regenbogen-40p-28awg)
+* [A mosfet transistor](https://www.play-zone.ch/en/sparkfun-mosfet-power-control-kit.html)
+* [A switch](https://www.bastelgarage.ch/schiebeschalter-dpdt-ein-ein-6-polig?search=switch)
+* [Ir sensor](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
 
