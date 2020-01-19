@@ -4,7 +4,7 @@
 
 #######METTRE PHOTO BOUGEOIR
 
-![GitHub Logo](/images/candle1.png)
+![GitHub Logo](/img/candle.png)
 Format: ![Alt Text](url)
 
 ## Why? 
