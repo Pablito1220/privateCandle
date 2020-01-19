@@ -16,9 +16,8 @@
 ## Instructions
 #### Electronic
 ###### You will need: 
-[GitHub](https://www.bastelgarage.ch/solar-lipo/sparkfun-lipo-battery-manager-battery-babysitter)
 * a battery system
-    * [GitHub](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
+    * [lipo ](https://www.bastelgarage.ch/solar-lipo/18650-batteriefach-batteriehalter-mit-anschlusskabel)
     * [GitHub](https://www.bastelgarage.ch/solar-lipo/sparkfun-lipo-battery-manager-battery-babysitter)
 * lots of jumpers
     * [GitHub](https://www.bastelgarage.ch/kabel-litzen/kabel-leitungen/flachkabel-idc-fc-regenbogen-40p-28awg)
@@ -26,6 +25,5 @@
     * [GitHub](https://www.play-zone.ch/en/sparkfun-mosfet-power-control-kit.html)
 * a switch
     * [GitHub](https://www.bastelgarage.ch/schiebeschalter-dpdt-ein-ein-6-polig?search=switch)
-* an ir sensor
-    * [GitHub](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
+* [ir flame detector](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
 
