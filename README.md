@@ -2,8 +2,6 @@
 
 #### Create disconnected spaces to enjoy sourrounding people. 
 
-#######METTRE PHOTO BOUGEOIR
-
 ![GitHub Logo](/img/PlancheRendu2.png)
 
 ## Why? 
@@ -24,3 +22,11 @@
 * [A switch](https://www.bastelgarage.ch/schiebeschalter-dpdt-ein-ein-6-polig?search=switch)
 * [Ir sensor](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
 
+#### Wiring
+
+SCHEMA ELECTRONIC
+
+#### Code 
+###### esp (Manager)
+I think you should use an
+`<addr>` element here instead.
