@@ -4,7 +4,7 @@
 
 #######METTRE PHOTO BOUGEOIR
 
-![GitHub Logo](/img/candle.png)
+![GitHub Logo](/img/PlancheRendu.png)
 
 ## Why? 
 ###### I live most of my time connected. It is the first thing I do when I wake up, and the last too. Event if I am not behind a terminal, I am still available if someone wants to communicate with me. I sometimes answer professional e-mails at 1am or 2am. 
