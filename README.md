@@ -14,15 +14,14 @@
 ###### We must reunite with our physicality and momentary stop our digital presence. That is why I designed a candlestick that scrambles the network when you light the candle on. This object was made with standards electronic pieces and 3d prints which makes its construction accessible to any maker. 
 
 ## Instructions
-
 #### Electronic
 ###### You will need: 
-###### * 2 esp8266
-###### * a battery systeme 
-######    * A battery systeme 
-http://github.com - automatic!
+a battery system
 [GitHub](http://github.com)
-######    * A battery systeme 
+a battery system
+[GitHub](http://github.com)
+a battery system
+[GitHub](http://github.com)
 ###### * lots of jumpers
 ###### * a mosfet transistor
 ###### * a switch
