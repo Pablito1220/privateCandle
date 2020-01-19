@@ -50,3 +50,6 @@ Flash *irSensor.ino* into the first esp8266 (the master).
 
 3D print this [stl file](https://www.thingiverse.com/thing:4112161)
 
+## Assemble
+
+![GitHub Logo](/img/up.png)
