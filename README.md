@@ -1,7 +1,7 @@
 # Private Candle 
 ###### Private candle is a wifi deauther that start the attack when the light is turned on. It creates disconnected spaces to enjoy the present.
 
-![GitHub Logo](/img/rendu1.png)
+![GitHub Logo](/img/highRenderPrivate.png)
 
 # Why? 
 ###### I live most of my time connected. It is the first thing I do when I wake up, and the last too. Event if I am not behind a terminal, I am still available if someone wants to communicate with me. I sometimes answer professional e-mails at 1am or 2am. 
@@ -49,4 +49,9 @@ Flash *irSensorSwitch.ino* into the first esp8266 (the master).
 ## 3D Print
 
 3D print this [stl file](https://www.thingiverse.com/thing:4119505)
-![GitHub Logo](/img/plan.png)
+![GitHub Logo](/img/rendu2.png)
+
+## Assembly
+
+Here is some disasembly view in order to mount the candlestick.
+![GitHub Logo](/img/eclate.png)
