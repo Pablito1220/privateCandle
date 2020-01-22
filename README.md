@@ -27,7 +27,7 @@
 ## Code 
 #### esp8266 (Master)
 Download zip or `git clone https://github.com/spacehuhn/esp8266_deauther.git`
-Flash *irSensor.ino* into the first esp8266 (the master). 
+Flash *irSensorSwitch.ino* into the first esp8266 (the master). 
 
 #### esp8266 (Slave)
 
