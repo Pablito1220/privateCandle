@@ -1,5 +1,5 @@
 # Private Candle 
-###### Create disconnected spaces to enjoy sourrounding people. 
+###### Create disconnected spaces to enjoy sourrounding people. Private candle is a wifi deauther that start the attack when the light is turned on. 
 
 ![GitHub Logo](/img/rendu1.png)
 
