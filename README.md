@@ -22,8 +22,7 @@
 * [Ir sensor](https://www.bastelgarage.ch/ir-infrarot-flammensensor?search=ir%20sensor)
 
 ## Wiring
-
-SCHEMA ELECTRONIC
+![GitHub Logo](/img/wiring.png)
 
 ## Code 
 #### esp8266 (Master)
