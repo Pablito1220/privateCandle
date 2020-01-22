@@ -1,7 +1,7 @@
 # Private Candle 
 ###### Create disconnected spaces to enjoy sourrounding people. 
 
-![GitHub Logo](/img/PlancheRendu2.png)
+![GitHub Logo](/img/rendu1.png)
 
 # Why? 
 ###### I live most of my time connected. It is the first thing I do when I wake up, and the last too. Event if I am not behind a terminal, I am still available if someone wants to communicate with me. I sometimes answer professional e-mails at 1am or 2am. 
